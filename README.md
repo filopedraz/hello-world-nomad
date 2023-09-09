@@ -15,9 +15,7 @@ nomad -v
 ### Create a Nomad Cluster with one node Locally
 
 ```bash
-sudo nomad agent -dev \
-  -bind 0.0.0.0 \
-  -network-interface='{{ GetDefaultInterfaces | attr "name" }}'
+sudo nomad agent -dev
 ```
 
 In another terminal

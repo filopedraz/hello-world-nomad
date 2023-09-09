@@ -1,4 +1,5 @@
-# hello-world-nomad
+# Hello World Nomad
+
 Testing Nomad as Cross Platform Orchestrator
 
 ## Getting Started
